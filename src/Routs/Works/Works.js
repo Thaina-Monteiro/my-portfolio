@@ -86,7 +86,7 @@ function Works() {
           <S.Card >
             <S.Img src={Codi} alt="projeto" />
             <S.Div >
-              <S.H4>Máquina de Codificar/Decodificar.</S.H4>
+              <S.H4>Codificar/Decodificar.</S.H4>
               <S.P>Aplicação para codificar e decodificar mensagens escritas em Base 64 
                 e Cifra de César. 
                 {/* usando conhecimentos de DOM(Javascript). */}
